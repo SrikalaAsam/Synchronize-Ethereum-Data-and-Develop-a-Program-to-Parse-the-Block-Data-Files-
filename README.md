@@ -42,7 +42,7 @@ Blockchain data is inherently unstructured, making it difficult to analyze and e
 - Ether Transfers Over Time: Highlighted periods of high-value transactions.
 - Gas Usage Per Transaction: Revealed average gas consumption patterns.
 
-  ## Conclusion
+## Conclusion
 The project successfully synchronized Ethereum data, parsed transaction details, and visualized critical insights. These results demonstrate how blockchain data can be structured for better decision-making.
 
 ## Future Scope
