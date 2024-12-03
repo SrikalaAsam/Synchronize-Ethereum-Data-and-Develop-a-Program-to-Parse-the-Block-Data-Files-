@@ -13,8 +13,7 @@
 - [Contributors](#contributors)
 
 ## Introduction
-This project aims to address the challenge of analyzing unstructured Ethereum blockchain data. By synchronizing and parsing blockchain data, the developed tool provides a structured and user-friendly way to derive actionable insights.
-
+The project aims at developing an application that synchronizes Ethereum blockchain data, fetches block data files, stores the transactions in a file and provides an efficient analysis. With the growing importance of blockchain technology, particularly Ethereum, this project aims to create a tool that allows users to efficiently download and store Ethereum blockchain data. Based, Throughout the project, several terms related to blockchain will be used.
 ## Problem Statement
 Blockchain data is inherently unstructured, making it difficult to analyze and extract meaningful insights. This project bridges that gap by providing a tool that organizes Ethereum blockchain data for analytical purposes.
 
